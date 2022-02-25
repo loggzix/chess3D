@@ -11,7 +11,6 @@
 *Cách sử dụng
 - Sau khi tải Folder "ChessGame"
 - Mở unity -> ADD -> Chọn folder "ChessGame" và mở
-Video hướng dẫn: Tutorials.mp4
 
 *Thông tin khác:
 - Các mã nguồn về code chủ yếu nằm trong đường dẫn: ChessGame\Assets\Scripts\Chess Game
