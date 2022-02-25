@@ -1,7 +1,7 @@
 *Project: ChessGame
 
 *Giới thiệu:
-	Project này là game cờ vua 3D được viết bằng ngôn ngữ C#, trên Engineer là Unity3D được viết bởi nhóm TC05-Trí tuệ nhân tạo được dùng để làm bài tập lớn của môn
+	Project này là game cờ vua 3D được viết bằng ngôn ngữ C#, trên Engineer là Unity3D
 
 *Điều kiện kiêm quyết
 Để sử dụng được project người dùng cần có:
