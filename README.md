@@ -5,4 +5,7 @@
 
 *Giao diện game
 
-![Menu](https://img.nhandan.com.vn/Files/Images/2020/07/26/nhat_cay-1595747664059.jpg)
+![Menu](https://drive.google.com/file/d/1h_790cWgt3KTxoYBKih5_OKHYtm3TjHr/view?usp=sharing)
+![Setting](https://drive.google.com/file/d/1bvh7LiGZr6AdnLZNCumclOGDQepF4QRK/view?usp=sharing)
+![Gameplay](https://drive.google.com/file/d/1Z4dY5JmvOmQNqzGbbdk6D96qORk-aire/view?usp=sharing)
+
